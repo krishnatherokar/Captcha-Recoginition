@@ -9,6 +9,6 @@ app_file: app.py
 pinned: false
 license: apache-2.0
 short_description: Character captcha recognition using a CNN Transformer.
+models:
+  - krishnatherokar/captcha-recognition
 ---
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
