@@ -31,6 +31,9 @@ A deep learning-based captcha recognition project. It uses Convolutional Neural 
 3. https://www.kaggle.com/datasets/mahmoudeldebase/captcha-numbers-length-6
 4. https://www.kaggle.com/datasets/bharatnaik111/vtu-university-captchas-with-labels
 
+## Training Notebook
+[![KAGGLE](https://img.shields.io/badge/Kaggle-Captcha%20Recognition-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/krishnatherokar/captcha-recognition)
+
 ## Model Architecture
 ```python
 # CNN

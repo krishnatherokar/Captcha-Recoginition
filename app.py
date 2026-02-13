@@ -9,7 +9,7 @@ interface = gr.Interface(
     fn=predict_and_decode,
     inputs=gr.Image(type="pil"),
     outputs="text",
-    title="Captcha Decoder",
+    title="Captcha Recognition",
     examples=example_list
 )
 
