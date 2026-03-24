@@ -1,19 +1,5 @@
----
-title: Captcha Recognition
-emoji: 📈
-colorFrom: yellow
-colorTo: indigo
-sdk: gradio
-sdk_version: 6.5.1
-app_file: app.py
-pinned: false
-license: apache-2.0
-short_description: Character captcha recognition using a CNN Transformer.
-models:
-  - krishnatherokar/captcha-recognition
----
-
 # Captcha Recognition
+Live Demo: [krishnatherokar-captcha-recognition.hf.space](https://krishnatherokar-captcha-recognition.hf.space/)
 
 A deep learning-based captcha recognition project. It uses Convolutional Neural Networks (CNN), Transformer Self Attention and Connectionist Temporal Classification (CTC) decoding to capture the text in captcha image.
 
